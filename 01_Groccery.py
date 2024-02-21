@@ -13,7 +13,6 @@ while(ch=='yes'):
     print("4.Delete Product")
     print("5.Purchase Product")
     print("6.Exit From The Store")
-           print("7.Areyou guys with me so far ?")
 
     inp=int(input("Enter The Choice from Menu:- "))
     new_dict={}
